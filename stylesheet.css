@@ -1,0 +1,43 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.greeting1 {
+    font-weight: 200;
+    border: 1.5px solid #b0b0b0;
+    width: 100px;
+    text-align: center;
+}
+
+.greeting2 {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.greeting3 {
+    font-size: 30px;
+}
+
+.about_title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.about_subtitle {
+    font-weight: 800;
+    font-size: 15px;
+
+}
+
+.placeholder2 {
+    height: 25em;
+    width: 20em;
+}
+
+#thumbnail {
+    height: 700px;
+}
+
+.material-icons {
+    margin-right: 40px;
+}
